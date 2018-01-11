@@ -5,7 +5,7 @@ Questo progetto effettua una scansione ogni giorno di un elenco di siti web di:
 
 I risultati sono disponibili come file in formato .csv, scaricabili e consultabili con una applicazione spreadsheet (es: excel, google spreadsheet, libreoffice).
 
-## contribuire
+## Contribuire
 Qui è possibile accedere e contribuire all'[elenco dei siti web](https://docs.google.com/spreadsheets/d/13LgBSMgU4f268OLtVWqLqy3z3nbL--EWKuUetMTuD1E) posti sotto monitoraggio.
 L'elenco dei siti è consultabile all'indirizzo  .
 
