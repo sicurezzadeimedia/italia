@@ -5,6 +5,12 @@ Questo progetto effettua una scansione ogni giorno di un elenco di siti web di:
 
 I risultati sono disponibili come file in formato .csv, scaricabili e consultabili con una applicazione spreadsheet (es: excel, google spreadsheet, libreoffice).
 
+I risultati sono parametri tecnici, ma riassunti nei 3 parametri:
+* Domain Supports HTTPS: Il sito supporta HTTPS ma non lo offre come opzione standard (e non necessariamente ben configurata)
+* Domain Enforces HTTPS: Il sito obbliga l'uso nativo di HTTPS e rifiuta l'accesso insicuro
+* Domain Uses Strong HSTS: Il sito obbliga l'uso nativo di HTTPS e obbliga al suo uso in futuro con le estensioni HSTS
+
+
 ## Contribuire
 Qui è possibile accedere e contribuire all'[elenco dei siti web](https://docs.google.com/spreadsheets/d/13LgBSMgU4f268OLtVWqLqy3z3nbL--EWKuUetMTuD1E) posti sotto monitoraggio.
 L'elenco dei siti è consultabile all'indirizzo  .
