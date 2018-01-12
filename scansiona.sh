@@ -14,15 +14,14 @@ git pull
 
 # Media
 
-curl -s "https://docs.google.com/spreadsheets/d/13LgBSMgU4f268OLtVWqLqy3z3nbL--EWKuUetMTuD1E/export?gid=0&format=csv" | grep -v Domain | awk -F, '{ print $2}' > media.csv
+curl -s "https://docs.google.com/spreadsheets/d/13LgBSMgU4f268OLtVWqLqy3z3nbL--EWKuUetMTuD1E/export?gid=0&format=csv" | grep -v Domain | awk -F, '{ print $2}' | tr -d '\r' > media.csv
 
 #PSHTT
 /usr/local/bin/pshtt media.csv --output media-risultati.csv 
 /usr/local/bin/pshtt media.csv --output media-risultati.json --json 
 
 # Mozilla HTTP Observatory scan - double pass
-for sito in `cat media.csv` ; do /usr/local/bin/observatory --rescan $sito ; sleep 5; done
-for sito in `cat media.csv` ; do /usr/local/bin/observatory --rescan $sito ; sleep 5; done
+for sito in `cat media.csv` ; do /usr/local/bin/observatory --rescan $sito ; done
 
 # TODO: Comporre un CSV sintetico con i siti, rating e link ad analisi di dettaglio
 # Per etrarre i risultati sintetici del rating usare
@@ -32,15 +31,14 @@ for sito in `cat media.csv` ; do /usr/local/bin/observatory --rescan $sito ; sle
 rm -f media.csv
 
 # Politica
-curl -s "https://docs.google.com/spreadsheets/d/13LgBSMgU4f268OLtVWqLqy3z3nbL--EWKuUetMTuD1E/export?gid=1181765951&format=csv" | grep -v Domain | awk -F, '{ print $2}' > politica.csv
+curl -s "https://docs.google.com/spreadsheets/d/13LgBSMgU4f268OLtVWqLqy3z3nbL--EWKuUetMTuD1E/export?gid=1181765951&format=csv" | grep -v Domain | awk -F, '{ print $2}' |  tr -d '\r' > politica.csv
 
 # PSHTT
 /usr/local/bin/pshtt politica.csv --output politica-risultati.csv
 /usr/local/bin/pshtt politica.csv --output politica-risultati.json --json 
 
 # Mozilla HTTP Observatory scan - double pass
-for sito in `cat politica.csv` ; do /usr/local/bin/observatory --rescan $sito ; sleep 5; done
-for sito in `cat politica.csv` ; do /usr/local/bin/observatory --rescan $sito ; sleep 5; done
+for sito in `cat politica.csv` ; do /usr/local/bin/observatory --rescan $sito ; done
 
 rm -f politica.csv
 
