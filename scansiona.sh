@@ -20,8 +20,8 @@ curl -s "https://docs.google.com/spreadsheets/d/13LgBSMgU4f268OLtVWqLqy3z3nbL--E
 /usr/local/bin/pshtt media.csv --output media-risultati.csv 
 /usr/local/bin/pshtt media.csv --output media-risultati.json --json 
 
-# Mozilla HTTP Observatory
-for sito in `cat media.csv` ; do /usr/local/bin/observatory --format url $sito; done
+# Mozilla HTTP Observatory scan
+for sito in `cat media.csv` ; do /usr/local/bin/observatory --rescan $sito; done
 
 
 
@@ -34,8 +34,8 @@ curl -s "https://docs.google.com/spreadsheets/d/13LgBSMgU4f268OLtVWqLqy3z3nbL--E
 /usr/local/bin/pshtt politica.csv --output politica-risultati.csv
 /usr/local/bin/pshtt politica.csv --output politica-risultati.json --json 
 
-# Mozilla HTTP Observatory
-for sito in `cat politica.csv` ; do /usr/local/bin/observatory --format url $sito; done
+# Mozilla HTTP Observatory scan
+for sito in `cat politica.csv` ; do /usr/local/bin/observatory --rescan $sito; done
 
 rm -f politica.csv
 
