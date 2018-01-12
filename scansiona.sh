@@ -23,6 +23,8 @@ curl -s "https://docs.google.com/spreadsheets/d/13LgBSMgU4f268OLtVWqLqy3z3nbL--E
 # Mozilla HTTP Observatory scan
 for sito in `cat media.csv` ; do /usr/local/bin/observatory --rescan $sito; done
 
+# Per etrarre i risultati sintetici del rating usare
+#  curl -s https://http-observatory.security.mozilla.org/api/v1/analyze?host=www.mozilla.org | jq -r '.grade'
 
 
 rm -f media.csv
