@@ -1,5 +1,10 @@
 #!/bin/sh
+#
+# https://github.com/dhs-ncats/pshtt
 # pip install pshtt
+#
+# https://github.com/mozilla/observatory-cli
+# npm install -g observatory-cli
 
 cd /data/https/italia
 
@@ -11,9 +16,9 @@ git pull
 
 curl -s "https://docs.google.com/spreadsheets/d/13LgBSMgU4f268OLtVWqLqy3z3nbL--EWKuUetMTuD1E/export?gid=0&format=csv" | grep -v Domain | awk -F, '{ print $2}' > media.csv
 
-/usr/local/bin/pshtt media.csv --output media-risultati.csv --sorted
+/usr/local/bin/pshtt media.csv --output media-risultati.csv 
 
-/usr/local/bin/pshtt media.csv --output media-risultati.json --json --sorted
+/usr/local/bin/pshtt media.csv --output media-risultati.json --json 
 
 
 rm -f media.csv
@@ -21,9 +26,9 @@ rm -f media.csv
 # Politica
 curl -s "https://docs.google.com/spreadsheets/d/13LgBSMgU4f268OLtVWqLqy3z3nbL--EWKuUetMTuD1E/export?gid=1181765951&format=csv" | grep -v Domain | awk -F, '{ print $2}' > politica.csv
 
-/usr/local/bin/pshtt politica.csv --output politica-risultati.csv --sorted
+/usr/local/bin/pshtt politica.csv --output politica-risultati.csv
 
-/usr/local/bin/pshtt politica.csv --output politica-risultati.json --json --sorted
+/usr/local/bin/pshtt politica.csv --output politica-risultati.json --json 
 
 rm -f politica.csv
 
