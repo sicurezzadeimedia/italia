@@ -13,7 +13,7 @@ ilgiornale.it,ilgiornale.it,http://www.ilgiornale.it,True,False,,False,False,Fal
 liberoquotidiano.it,liberoquotidiano.it,http://www.liberoquotidiano.it,True,False,,True,False,False,False,False,False,False,False,False,,,False,False,False,False,False,True,False,False,False
 ilgiorno.it,ilgiorno.it,http://www.ilgiorno.it,True,False,,True,False,False,False,False,False,False,False,False,,,False,False,False,False,False,True,False,False,False
 ilmattino.it,ilmattino.it,http://ilmattino.it,True,False,,True,False,False,False,False,False,False,False,False,,,False,False,False,False,False,True,False,False,False
-italiaoggi.it,italiaoggi.it,http://www.italiaoggi.it,True,False,,True,False,False,False,False,False,False,False,False,,,False,False,False,False,False,True,False,False,False
+italiaoggi.it,italiaoggi.it,http://www.italiaoggi.it,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
 ilfattoquotidiano.it,ilfattoquotidiano.it,https://www.ilfattoquotidiano.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 iltempo.it,iltempo.it,http://www.iltempo.it,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
 ilmanifesto.it,ilmanifesto.it,https://ilmanifesto.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
@@ -22,8 +22,8 @@ valigiablu.it,valigiablu.it,https://www.valigiablu.it,True,False,,True,True,Fals
 espresso.repubblica.it,repubblica.it,http://espresso.repubblica.it,True,False,,True,False,False,False,False,False,False,False,False,,,False,False,False,False,False,True,False,False,False
 panorama.it,panorama.it,https://www.panorama.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 agi.it,agi.it,https://www.agi.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
-ansa.it,ansa.it,https://www.ansa.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
-dagospia.com,dagospia.com,http://www.dagospia.com,True,False,,False,False,False,False,False,True,False,False,False,,,False,False,False,False,False,False,False,False,False
+ansa.it,ansa.it,http://www.ansa.it,True,False,,True,False,False,False,False,False,False,False,False,,,False,False,False,False,False,True,False,False,False
+dagospia.com,dagospia.com,http://www.dagospia.com,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
 quotidiano.net,quotidiano.net,https://www.quotidiano.net,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 milanofinanza.it,milanofinanza.it,https://www.milanofinanza.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 huffingtonpost.it,huffingtonpost.it,http://www.huffingtonpost.it,True,False,,True,False,True,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
