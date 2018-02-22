@@ -7,7 +7,7 @@ corriere.it,corriere.it,http://www.corriere.it,True,False,,False,False,True,Fals
 ilsole24ore.com,ilsole24ore.com,http://www.ilsole24ore.com,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,True
 ilmessaggero.it,ilmessaggero.it,http://ilmessaggero.it,True,False,,True,False,False,False,False,False,False,False,False,,,False,False,False,False,False,True,False,False,False
 ilrestodelcarlino.it,ilrestodelcarlino.it,http://www.ilrestodelcarlino.it,True,False,,True,False,False,False,False,False,False,False,False,,,False,False,False,False,False,True,False,False,False
-avvenire.it,avvenire.it,https://www.avvenire.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
+avvenire.it,avvenire.it,http://www.avvenire.it,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
 lanazione.it,lanazione.it,http://www.lanazione.it,True,False,,True,False,False,False,False,False,False,False,False,,,False,False,False,False,False,True,False,False,False
 ilgiornale.it,ilgiornale.it,http://www.ilgiornale.it,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,True
 liberoquotidiano.it,liberoquotidiano.it,http://www.liberoquotidiano.it,True,False,,True,False,False,False,False,False,False,False,False,,,False,False,False,False,False,True,False,False,False
