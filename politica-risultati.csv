@@ -1,6 +1,6 @@
 Domain,Base Domain,Canonical URL,Live,Redirect,Redirect To,Valid HTTPS,Defaults to HTTPS,Downgrades HTTPS,Strictly Forces HTTPS,HTTPS Bad Chain,HTTPS Bad Hostname,HTTPS Expired Cert,HTTPS Self Signed Cert,HSTS,HSTS Header,HSTS Max Age,HSTS Entire Domain,HSTS Preload Ready,HSTS Preload Pending,HSTS Preloaded,Base Domain HSTS Preloaded,Domain Supports HTTPS,Domain Enforces HTTPS,Domain Uses Strong HSTS,Unknown Error
 partitodemocratico.it,partitodemocratico.it,https://www.partitodemocratico.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
-movimento5stelle.it,movimento5stelle.it,https://movimento5stelle.it,True,False,,False,True,False,True,False,False,False,False,False,,,False,False,False,False,False,False,False,False,True
+movimento5stelle.it,movimento5stelle.it,http://movimento5stelle.it,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,True
 leganord.org,leganord.org,http://leganord.org,False,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
 forza-italia.it,forza-italia.it,http://forza-italia.it,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
 radicali.it,radicali.it,http://www.radicali.it,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
