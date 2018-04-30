@@ -3,7 +3,7 @@ lastampa.it,lastampa.it,http://www.lastampa.it,True,False,,True,False,False,Fals
 vanityfair.it,vanityfair.it,https://www.vanityfair.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 repubblica.it,repubblica.it,http://www.repubblica.it,True,False,,True,False,True,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
 gazzetta.it,gazzetta.it,https://www.gazzetta.it,True,False,,True,True,False,False,False,False,False,False,False,max-age=0,0,False,False,False,False,False,True,True,False,False
-corriere.it,corriere.it,http://www.corriere.it,True,False,,True,False,False,False,False,False,False,False,False,,,False,False,False,False,False,True,False,False,False
+corriere.it,corriere.it,http://www.corriere.it,True,False,,True,False,True,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
 ilsole24ore.com,ilsole24ore.com,http://www.ilsole24ore.com,True,False,,True,False,False,False,False,False,False,False,False,,,False,False,False,False,False,True,False,False,True
 ilmessaggero.it,ilmessaggero.it,https://ilmessaggero.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 ilrestodelcarlino.it,ilrestodelcarlino.it,https://www.ilrestodelcarlino.it,True,False,,True,True,False,False,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
