@@ -38,6 +38,6 @@ tgcom24.mediaset.it,mediaset.it,https://www.tgcom24.mediaset.it,True,False,,True
 tg24.sky.it,sky.it,https://tg24.sky.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 tg.la7.it,la7.it,http://tg.la7.it,True,False,,False,False,False,False,False,True,False,False,False,,,False,False,False,False,False,False,False,False,False
 wired.it,wired.it,https://www.wired.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
-la7.it,la7.it,http://www.la7.it,True,False,,False,False,False,False,False,True,False,False,False,,,False,False,False,False,False,False,False,False,False
+la7.it,la7.it,http://www.la7.it,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
 mediaset.it,mediaset.it,https://www.mediaset.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 motherboard.vice.com,vice.com,https://motherboard.vice.com,True,False,,True,True,False,True,False,False,False,False,True,max-age=31536000; includeSubDomains,31536000,True,False,False,False,False,True,True,True,False
