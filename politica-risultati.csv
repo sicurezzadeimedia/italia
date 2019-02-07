@@ -1,13 +1,13 @@
 Domain,Base Domain,Canonical URL,Live,Redirect,Redirect To,Valid HTTPS,Defaults to HTTPS,Downgrades HTTPS,Strictly Forces HTTPS,HTTPS Bad Chain,HTTPS Bad Hostname,HTTPS Expired Cert,HTTPS Self Signed Cert,HSTS,HSTS Header,HSTS Max Age,HSTS Entire Domain,HSTS Preload Ready,HSTS Preload Pending,HSTS Preloaded,Base Domain HSTS Preloaded,Domain Supports HTTPS,Domain Enforces HTTPS,Domain Uses Strong HSTS,Unknown Error
 partitodemocratico.it,partitodemocratico.it,https://www.partitodemocratico.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
-movimento5stelle.it,movimento5stelle.it,https://movimento5stelle.it,True,False,,False,True,False,True,False,True,False,False,False,,,False,False,False,False,False,False,False,False,False
+movimento5stelle.it,movimento5stelle.it,https://movimento5stelle.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 leganord.org,leganord.org,http://leganord.org,False,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
 forza-italia.it,forza-italia.it,http://forza-italia.it,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
 radicali.it,radicali.it,https://www.radicali.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 ilpartitocomunistaitaliano.it,ilpartitocomunistaitaliano.it,https://www.ilpartitocomunistaitaliano.it,True,False,,True,True,False,False,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 sinistraecologialiberta.it,sinistraecologialiberta.it,http://www.sinistraecologialiberta.it,True,False,,False,False,False,False,False,False,True,False,False,,,False,False,False,False,False,False,False,False,False
 alternativapopolare.it,alternativapopolare.it,https://www.alternativapopolare.it,True,False,,True,True,False,False,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
-articolo1mdp.it,articolo1mdp.it,https://articolo1mdp.it,True,False,,False,True,False,True,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
+articolo1mdp.it,articolo1mdp.it,https://articolo1mdp.it,True,False,,True,True,False,True,False,False,False,False,True,max-age=63072000; includeSubdomains;,63072000,True,False,False,False,False,True,True,True,False
 udc-italia.it,udc-italia.it,http://www.udc-italia.it,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
 rifondazione.it,rifondazione.it,http://rifondazione.it,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
 italiadeivalori.it,italiadeivalori.it,http://www.italiadeivalori.it,True,False,,True,False,False,False,False,False,False,False,False,,,False,False,False,False,False,True,False,False,False
@@ -15,9 +15,9 @@ partitopensionati.it,partitopensionati.it,http://www.partitopensionati.it,True,F
 forzanuova.eu,forzanuova.eu,http://www.forzanuova.eu,True,False,,True,False,False,False,False,False,False,False,False,,,False,False,False,False,False,True,False,False,False
 fratelli-italia.it,fratelli-italia.it,https://www.fratelli-italia.it,True,False,,True,True,False,False,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 democraziacristianaonline.info,democraziacristianaonline.info,http://www.democraziacristianaonline.info,True,False,,False,False,False,False,False,True,False,False,False,,,False,False,False,False,False,False,False,False,False
-ladestra.com,ladestra.com,http://www.ladestra.com,True,False,,False,False,False,False,True,False,False,True,False,,,False,False,False,False,False,True,False,False,True
+ladestra.com,ladestra.com,http://www.ladestra.com,True,False,,False,False,False,False,True,False,False,True,False,,,False,False,False,False,False,True,False,False,False
 partitoliberale.it,partitoliberale.it,https://www.partitoliberale.it,True,False,,True,True,False,False,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
-nuovopsi.net,nuovopsi.net,http://www.nuovopsi.net,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
+nuovopsi.net,nuovopsi.net,http://nuovopsi.net,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
 popolariperlitalia.org,popolariperlitalia.org,http://www.popolariperlitalia.org,True,False,,False,False,False,False,False,True,False,False,False,,,False,False,False,False,False,False,False,False,False
 sceltacivica.it,sceltacivica.it,http://www.sceltacivica.it,True,False,,False,False,False,False,False,False,True,False,False,,,False,False,False,False,False,False,False,False,False
 sinistraitaliana.si,sinistraitaliana.si,http://www.sinistraitaliana.si,True,False,,False,False,False,False,False,True,False,False,False,,,False,False,False,False,False,False,False,False,False
