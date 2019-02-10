@@ -15,7 +15,7 @@ ilgiorno.it,ilgiorno.it,https://www.ilgiorno.it,True,False,,True,True,False,Fals
 ilmattino.it,ilmattino.it,https://www.ilmattino.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 italiaoggi.it,italiaoggi.it,https://www.italiaoggi.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 ilfattoquotidiano.it,ilfattoquotidiano.it,https://www.ilfattoquotidiano.it,True,False,,True,True,False,True,False,False,False,False,True,max-age=86400,86400,False,False,False,False,False,True,True,False,False
-iltempo.it,iltempo.it,https://www.iltempo.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
+iltempo.it,iltempo.it,https://www.iltempo.it,True,False,,False,True,False,True,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
 ilmanifesto.it,ilmanifesto.it,https://ilmanifesto.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 linkiesta.it,linkiesta.it,https://www.linkiesta.it,True,False,,True,True,False,True,False,False,False,False,True,max-age=31536000,31536000,False,False,False,False,False,True,True,True,False
 valigiablu.it,valigiablu.it,https://www.valigiablu.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
