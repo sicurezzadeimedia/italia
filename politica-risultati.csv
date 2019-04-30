@@ -5,7 +5,7 @@ leganord.org,leganord.org,http://leganord.org,False,False,,False,False,False,Fal
 forza-italia.it,forza-italia.it,http://forza-italia.it,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
 radicali.it,radicali.it,https://www.radicali.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 ilpartitocomunistaitaliano.it,ilpartitocomunistaitaliano.it,https://www.ilpartitocomunistaitaliano.it,True,False,,True,True,False,False,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
-sinistraecologialiberta.it,sinistraecologialiberta.it,http://www.sinistraecologialiberta.it,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
+sinistraecologialiberta.it,sinistraecologialiberta.it,http://www.sinistraecologialiberta.it,True,False,,False,False,False,False,False,False,True,False,False,,,False,False,False,False,False,False,False,False,False
 alternativapopolare.it,alternativapopolare.it,https://www.alternativapopolare.it,True,False,,True,True,False,False,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 articolo1mdp.it,articolo1mdp.it,https://articolo1mdp.it,True,False,,True,True,False,True,False,False,False,False,True,max-age=63072000; includeSubdomains;,63072000,True,False,False,False,False,True,True,True,False
 udc-italia.it,udc-italia.it,http://www.udc-italia.it,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
@@ -21,6 +21,6 @@ nuovopsi.net,nuovopsi.net,http://nuovopsi.net,True,False,,False,False,False,Fals
 popolariperlitalia.org,popolariperlitalia.org,http://www.popolariperlitalia.org,True,False,,False,False,False,False,False,True,False,False,False,,,False,False,False,False,False,False,False,False,False
 sceltacivica.it,sceltacivica.it,http://www.sceltacivica.it,True,False,,False,False,False,False,False,False,True,False,False,,,False,False,False,False,False,False,False,False,False
 sinistraitaliana.si,sinistraitaliana.si,http://www.sinistraitaliana.si,True,False,,False,False,False,False,False,True,False,False,False,,,False,False,False,False,False,False,False,False,False
-verdi.it,verdi.it,http://www.verdi.it,True,False,,False,False,False,False,False,True,False,False,False,,,False,False,False,False,False,False,False,False,False
+verdi.it,verdi.it,http://verdi.it,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
 partitosocialista.it,partitosocialista.it,http://www.partitosocialista.it,True,False,,False,False,False,False,False,True,False,False,False,,,False,False,False,False,False,False,False,False,False
 svp.eu,svp.eu,https://www.svp.eu,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
