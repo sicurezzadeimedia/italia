@@ -34,7 +34,7 @@ leggo.it,leggo.it,https://leggo.it,True,False,,True,True,False,True,False,False,
 city.corriere.it,corriere.it,http://www.city.corriere.it,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
 lettera43.it,lettera43.it,https://www.lettera43.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 rainews.it,rainews.it,http://www.rainews.it,True,False,,True,False,False,False,False,False,False,False,False,,,False,False,False,False,False,True,False,False,False
-tgcom24.mediaset.it,mediaset.it,http://www.tgcom24.mediaset.it,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
+tgcom24.mediaset.it,mediaset.it,https://www.tgcom24.mediaset.it,True,False,,True,True,False,False,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 tg24.sky.it,sky.it,https://tg24.sky.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 tg.la7.it,la7.it,http://tg.la7.it,True,False,,False,False,False,False,False,True,False,False,False,,,False,False,False,False,False,False,False,False,False
 wired.it,wired.it,https://www.wired.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
