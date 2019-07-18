@@ -23,12 +23,12 @@ espresso.repubblica.it,repubblica.it,http://espresso.repubblica.it,True,False,,T
 panorama.it,panorama.it,http://www.panorama.it,True,False,,True,False,False,False,False,False,False,False,False,,,False,False,False,False,False,True,False,False,False
 agi.it,agi.it,https://www.agi.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 ansa.it,ansa.it,http://www.ansa.it,True,False,,True,False,False,False,False,False,False,False,False,,,False,False,False,False,False,True,False,False,False
-dagospia.com,dagospia.com,https://www.dagospia.com,True,False,,True,True,False,False,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
+dagospia.com,dagospia.com,http://www.dagospia.com,True,False,,True,False,False,False,False,False,False,False,False,,,False,False,False,False,False,True,False,False,False
 quotidiano.net,quotidiano.net,https://www.quotidiano.net,True,False,,True,True,False,False,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 milanofinanza.it,milanofinanza.it,https://www.milanofinanza.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 huffingtonpost.it,huffingtonpost.it,https://www.huffingtonpost.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 corrieredellosport.it,corrieredellosport.it,https://www.corrieredellosport.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
-tuttosport.com,tuttosport.com,https://www.tuttosport.com,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
+tuttosport.com,tuttosport.com,https://www.tuttosport.com,True,False,,False,True,False,True,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
 metronews.it,metronews.it,http://www.metronews.it,True,False,,False,False,False,False,False,True,False,False,False,,,False,False,False,False,False,False,False,False,False
 leggo.it,leggo.it,https://leggo.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 city.corriere.it,corriere.it,http://www.city.corriere.it,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
