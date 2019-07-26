@@ -2,7 +2,7 @@ Domain,Base Domain,Canonical URL,Live,Redirect,Redirect To,Valid HTTPS,Defaults 
 lastampa.it,lastampa.it,https://www.lastampa.it,True,False,,True,True,False,False,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 vanityfair.it,vanityfair.it,https://www.vanityfair.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 repubblica.it,repubblica.it,https://www.repubblica.it,True,False,,True,True,False,False,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
-gazzetta.it,gazzetta.it,https://www.gazzetta.it,True,False,,True,True,False,False,False,False,False,False,False,max-age=0,0,False,False,False,False,False,True,True,False,False
+gazzetta.it,gazzetta.it,http://gazzetta.it,False,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
 corriere.it,corriere.it,https://www.corriere.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 ilsole24ore.com,ilsole24ore.com,https://www.ilsole24ore.com,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
 ilmessaggero.it,ilmessaggero.it,https://www.ilmessaggero.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
